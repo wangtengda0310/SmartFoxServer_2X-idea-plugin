@@ -1,0 +1,1 @@
+# SmartFoxServer_2X-idea-plugin
